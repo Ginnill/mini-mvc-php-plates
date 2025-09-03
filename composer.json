@@ -1,0 +1,17 @@
+{
+    "name": "delta/4works",
+    "autoload": {
+        "psr-4": {
+            "app\\": "app"
+        }
+    },
+    "authors": [
+        {
+            "name": "Gustavo Fortunato"
+        }
+    ],
+    "require": {
+        "league/plates": "^3.6",
+        "guzzlehttp/guzzle": "^7.10"
+    }
+}
